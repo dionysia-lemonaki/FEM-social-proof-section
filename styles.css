@@ -17,3 +17,12 @@
   --fw-medium: 500;
   --fw-bold: 700;
 }
+
+/* Font */
+
+@font-face {
+  font-family: "League Spartan";
+  src: url("./font/LeagueSpartan.woff2") format("woff2");
+  font-weight: 100 900;
+  font-display: swap;
+}
