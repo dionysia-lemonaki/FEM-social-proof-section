@@ -1,0 +1,19 @@
+/* Style Guide */
+
+:root {
+  /* colours */
+  --very-dark-magenta: hsl(300, 43%, 22%);
+  --soft-pink: hsl(333, 80%, 67%);
+  --dark-gray-magenta: hsl(303, 10%, 53%);
+  --light-gray-magenta: hsl(300, 24%, 96%);
+  --white: hsl(0, 0%, 100%);
+  /* typography */
+  --fm: "League Spartan", sans-serif;
+  --fs-sm: 1.063rem; /* 17px */
+  --fs-md: 1.188rem; /* 19px */
+  --fs-lg: 2.5rem; /* 40px */
+  --fs-xl: 3.5rem; /* 56px */
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-bold: 700;
+}
